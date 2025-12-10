@@ -56,23 +56,17 @@
 ### 🔹 **GymMaster – Hệ thống quản lý phòng gym**
 > Quản lý khách hàng, nhân viên, thiết bị, ca trực, doanh thu  
 **Tech:** React, Tailwind, Node.js, Express, MySQL  
-👉 *(Add link repo khi bạn public)*
+👉 https://github.com/pvhip/GYM
 
 ---
 
-### 🔹 **Website cho thuê thiết bị**
-> Tính phí thuê theo tháng, thanh toán, lịch sử giao dịch  
-**Tech:** React, Supabase, Node.js  
-👉 *(Thêm link repo)*
+### 🔹 **TinVietVP - Website bán và cho thuê các sản phẩm văn phòng**
+> Bán các sản phẩm văn phòng: Máy in, máy photocopy, mực in, máy tính bàn,.... 
+**Tech:** JavaScript  
+👉 https://github.com/pvhip/TinVietVP
 
 ---
 
-### 🔹 **Coffee Supply Chain Odoo Module**
-> Module Odoo quản lý sản xuất – vận chuyển – tồn kho  
-**Tech:** Python, Odoo  
-👉 *(Thêm link repo)*
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
