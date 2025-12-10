@@ -1,7 +1,6 @@
 <img width="1536" height="1024" alt="ChatGPT Image Dec 10, 2025, 04_46_27 PM" src="https://github.com/user-attachments/assets/85007ed4-8982-43cc-9341-104caef1b278" /><!-- ====== Banner (có thể thay bằng ảnh bạn muốn) ====== -->
 <p align="center">
-  <img src="<img width="1536" height="1024" src="https://github.com/user-attachments/assets/68abe6cd-1ae2-4df8-803e-843055b1220a" />
-" alt="banner" />
+  <img src="<img width="1536" height="1024" src="https://github.com/user-attachments/assets/68abe6cd-1ae2-4df8-803e-843055b1220a" /> />
 </p>
 
 <h1 align="center">Hi, I'm Hiep 👋</h1>
